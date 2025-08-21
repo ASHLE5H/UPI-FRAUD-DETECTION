@@ -14,9 +14,13 @@ Digital payments via UPI are growing rapidly in India, but so are fraudulent tra
 ---
 
 ## 📂 Repository Structure
+
 ├── ML_PROJECT.ipynb # Main Jupyter Notebook with complete workflow
+
 ├── Upi.xlsx # Dataset (UPI transactions)
+
 ├── upi_model.pkl # Saved ML model
+
 └── .ipynb_checkpoints # Jupyter checkpoints (can be ignored)
 
 ---
@@ -47,7 +51,7 @@ Digital payments via UPI are growing rapidly in India, but so are fraudulent tra
    - Evaluate with metrics like Accuracy, Precision, Recall, F1-score  
 
 6. **Model Saving**  
-   Save the final trained model as `upi_model.pkl`.
+   -Save the final trained model as `upi_model.pkl`.
 
 ---
 
