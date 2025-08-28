@@ -21,7 +21,7 @@ Digital payments via UPI are growing rapidly in India, but so are fraudulent tra
 
 ├── upi_model.pkl # Saved ML model
 
-└── .ipynb_checkpoints # Jupyter checkpoints (can be ignored)
+└── .ipynb_checkpoints # Jupyter checkpoints
 
 ---
 
